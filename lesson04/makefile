@@ -13,16 +13,16 @@ ZIPCMD		=	zip
 
 TARGET		=	$(TARGET_EX) $(TARGET_QZ)
 TARGET_EX	=	ex4_1 ex4_2 ex4_3 ex4_3a ex4_4
-TERGET_QZ	=	q4_1 q4_2 q4_3
+TERGET_QZ	=	q4_1 q4_2 q4_3 q4_4                                  # ---------- ここ ----------
 
 OBJS		=	$(OBJS_EX) $(OBJS_QZ)
 OBJS_EX		=	ex4_1.o ex4_2.o ex4_3.o ex4_4.o \
-			IntArray.o Date.o Account.o Account2.o 
-OBJS_QZ		=	q4_1.o q4_2.o q4_3.o
+			IntArray.o Date.o Account.o Account2.o Log.o Date1.o
+OBJS_QZ		=	q4_1.o q4_2.o q4_3.o q4_4.o                                  # ---------- ここ ----------
 
 WEXECS		=	$(WEXECS_EX) $(WEXECS_QZ)
 WEXECS_EX	=	ex4_1.exe ex4_2.exe ex4_3.exe ex4_3a.exe ex4_4.exe
-WEXECS_QZ	=	q4_1.exe q4_2.exe q4_3.exe
+WEXECS_QZ	=	q4_1.exe q4_2.exe q4_3.exe q4_4.exe                                  # ---------- ここ ----------
 
 WORKDIR	=	lesson04
 
@@ -47,6 +47,7 @@ ex4_4:		ex4_4.o
 q4_1:		q4_1.o DoubleArray.o
 q4_2:		q4_2.o Line.o Point.o
 q4_3:		q4_3.o Line2.o Point2.o
+q4_4:		q4_4.o Log.o Date1.o                                  # ---------- ここ ----------
 
 ex4_1.o:	ex4_1.cpp IntArray.h
 ex4_2.o:	ex4_2.cpp IntArray.h
@@ -56,6 +57,7 @@ ex4_4.o:	ex4_4.cpp Student.h
 q4_1.o:		q4_1.cpp DoubleArray.h
 q4_2.o:		q4_2.cpp Line.h Point.h
 q4_3.o:		q4_3.cpp Line2.h Point2.h
+q4_4.o:		q4_4.cpp Log.h Date1.h                                  # ---------- ここ ----------
 
 IntArray.o:	IntArray.cpp IntArray.h
 Account.o:	Account.cpp Account.h Date.h
@@ -66,6 +68,8 @@ Line.o:		Line.cpp Line.h Point.h
 Point.o:	Point.cpp Point.h
 Line2.o:	Line2.cpp Line2.h Point2.h
 Point2.o:	Point2.cpp Point2.h
+Log.o:	Log.cpp Log.h Date1.h                                  # ---------- ここ ----------
+Date1.o:	Date1.cpp Date1.h                                  # ---------- ここ ----------
 
 ##
 ##	extra rules for cygwin

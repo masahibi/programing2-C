@@ -167,7 +167,97 @@
 		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Date.h">
 			<Option target="C_C__"/>
 		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Date1.cpp">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Date1.h">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson04/DoubleArray.cpp">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson04/DoubleArray.h">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Line.cpp">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Line.h">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Line2.cpp">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Line2.h">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Log.cpp">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Log.h">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Point.cpp">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Point.h">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Point2.cpp">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Point2.h">
+			<Option target="C_C__"/>
+		</Unit>
 		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson04/ex4_3.cpp">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson04/q4_1.cpp">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson04/q4_2.cpp">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson04/q4_3.cpp">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson04/q4_4.cpp">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson05/Complex1.cpp">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson05/Complex1.h">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson05/q5_1.cpp">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson06/Circle0.h">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson06/Color.h">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson06/ColoredCircle0.h">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson06/Member.h">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson06/Point.h">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson06/VipMember.h">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson06/VipMember0.h">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson06/q6_1.cpp">
+			<Option target="C_C__"/>
+		</Unit>
+		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/lesson06/q6_2.cpp">
 			<Option target="C_C__"/>
 		</Unit>
 		<Unit filename="/Users/masaki/大学用/プログラミング２（C:C++）/main.cpp">

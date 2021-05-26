@@ -710,6 +710,195 @@ lesson04/Date.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/Date.cpp.s
 .PHONY : lesson04/Date.cpp.s
 
+lesson04/Date1.o: lesson04/Date1.cpp.o
+
+.PHONY : lesson04/Date1.o
+
+# target to build an object file
+lesson04/Date1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/Date1.cpp.o
+.PHONY : lesson04/Date1.cpp.o
+
+lesson04/Date1.i: lesson04/Date1.cpp.i
+
+.PHONY : lesson04/Date1.i
+
+# target to preprocess a source file
+lesson04/Date1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/Date1.cpp.i
+.PHONY : lesson04/Date1.cpp.i
+
+lesson04/Date1.s: lesson04/Date1.cpp.s
+
+.PHONY : lesson04/Date1.s
+
+# target to generate assembly for a file
+lesson04/Date1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/Date1.cpp.s
+.PHONY : lesson04/Date1.cpp.s
+
+lesson04/DoubleArray.o: lesson04/DoubleArray.cpp.o
+
+.PHONY : lesson04/DoubleArray.o
+
+# target to build an object file
+lesson04/DoubleArray.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/DoubleArray.cpp.o
+.PHONY : lesson04/DoubleArray.cpp.o
+
+lesson04/DoubleArray.i: lesson04/DoubleArray.cpp.i
+
+.PHONY : lesson04/DoubleArray.i
+
+# target to preprocess a source file
+lesson04/DoubleArray.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/DoubleArray.cpp.i
+.PHONY : lesson04/DoubleArray.cpp.i
+
+lesson04/DoubleArray.s: lesson04/DoubleArray.cpp.s
+
+.PHONY : lesson04/DoubleArray.s
+
+# target to generate assembly for a file
+lesson04/DoubleArray.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/DoubleArray.cpp.s
+.PHONY : lesson04/DoubleArray.cpp.s
+
+lesson04/Line.o: lesson04/Line.cpp.o
+
+.PHONY : lesson04/Line.o
+
+# target to build an object file
+lesson04/Line.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/Line.cpp.o
+.PHONY : lesson04/Line.cpp.o
+
+lesson04/Line.i: lesson04/Line.cpp.i
+
+.PHONY : lesson04/Line.i
+
+# target to preprocess a source file
+lesson04/Line.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/Line.cpp.i
+.PHONY : lesson04/Line.cpp.i
+
+lesson04/Line.s: lesson04/Line.cpp.s
+
+.PHONY : lesson04/Line.s
+
+# target to generate assembly for a file
+lesson04/Line.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/Line.cpp.s
+.PHONY : lesson04/Line.cpp.s
+
+lesson04/Line2.o: lesson04/Line2.cpp.o
+
+.PHONY : lesson04/Line2.o
+
+# target to build an object file
+lesson04/Line2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/Line2.cpp.o
+.PHONY : lesson04/Line2.cpp.o
+
+lesson04/Line2.i: lesson04/Line2.cpp.i
+
+.PHONY : lesson04/Line2.i
+
+# target to preprocess a source file
+lesson04/Line2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/Line2.cpp.i
+.PHONY : lesson04/Line2.cpp.i
+
+lesson04/Line2.s: lesson04/Line2.cpp.s
+
+.PHONY : lesson04/Line2.s
+
+# target to generate assembly for a file
+lesson04/Line2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/Line2.cpp.s
+.PHONY : lesson04/Line2.cpp.s
+
+lesson04/Log.o: lesson04/Log.cpp.o
+
+.PHONY : lesson04/Log.o
+
+# target to build an object file
+lesson04/Log.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/Log.cpp.o
+.PHONY : lesson04/Log.cpp.o
+
+lesson04/Log.i: lesson04/Log.cpp.i
+
+.PHONY : lesson04/Log.i
+
+# target to preprocess a source file
+lesson04/Log.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/Log.cpp.i
+.PHONY : lesson04/Log.cpp.i
+
+lesson04/Log.s: lesson04/Log.cpp.s
+
+.PHONY : lesson04/Log.s
+
+# target to generate assembly for a file
+lesson04/Log.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/Log.cpp.s
+.PHONY : lesson04/Log.cpp.s
+
+lesson04/Point.o: lesson04/Point.cpp.o
+
+.PHONY : lesson04/Point.o
+
+# target to build an object file
+lesson04/Point.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/Point.cpp.o
+.PHONY : lesson04/Point.cpp.o
+
+lesson04/Point.i: lesson04/Point.cpp.i
+
+.PHONY : lesson04/Point.i
+
+# target to preprocess a source file
+lesson04/Point.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/Point.cpp.i
+.PHONY : lesson04/Point.cpp.i
+
+lesson04/Point.s: lesson04/Point.cpp.s
+
+.PHONY : lesson04/Point.s
+
+# target to generate assembly for a file
+lesson04/Point.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/Point.cpp.s
+.PHONY : lesson04/Point.cpp.s
+
+lesson04/Point2.o: lesson04/Point2.cpp.o
+
+.PHONY : lesson04/Point2.o
+
+# target to build an object file
+lesson04/Point2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/Point2.cpp.o
+.PHONY : lesson04/Point2.cpp.o
+
+lesson04/Point2.i: lesson04/Point2.cpp.i
+
+.PHONY : lesson04/Point2.i
+
+# target to preprocess a source file
+lesson04/Point2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/Point2.cpp.i
+.PHONY : lesson04/Point2.cpp.i
+
+lesson04/Point2.s: lesson04/Point2.cpp.s
+
+.PHONY : lesson04/Point2.s
+
+# target to generate assembly for a file
+lesson04/Point2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/Point2.cpp.s
+.PHONY : lesson04/Point2.cpp.s
+
 lesson04/ex4_3.o: lesson04/ex4_3.cpp.o
 
 .PHONY : lesson04/ex4_3.o
@@ -736,6 +925,222 @@ lesson04/ex4_3.s: lesson04/ex4_3.cpp.s
 lesson04/ex4_3.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/ex4_3.cpp.s
 .PHONY : lesson04/ex4_3.cpp.s
+
+lesson04/q4_1.o: lesson04/q4_1.cpp.o
+
+.PHONY : lesson04/q4_1.o
+
+# target to build an object file
+lesson04/q4_1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/q4_1.cpp.o
+.PHONY : lesson04/q4_1.cpp.o
+
+lesson04/q4_1.i: lesson04/q4_1.cpp.i
+
+.PHONY : lesson04/q4_1.i
+
+# target to preprocess a source file
+lesson04/q4_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/q4_1.cpp.i
+.PHONY : lesson04/q4_1.cpp.i
+
+lesson04/q4_1.s: lesson04/q4_1.cpp.s
+
+.PHONY : lesson04/q4_1.s
+
+# target to generate assembly for a file
+lesson04/q4_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/q4_1.cpp.s
+.PHONY : lesson04/q4_1.cpp.s
+
+lesson04/q4_2.o: lesson04/q4_2.cpp.o
+
+.PHONY : lesson04/q4_2.o
+
+# target to build an object file
+lesson04/q4_2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/q4_2.cpp.o
+.PHONY : lesson04/q4_2.cpp.o
+
+lesson04/q4_2.i: lesson04/q4_2.cpp.i
+
+.PHONY : lesson04/q4_2.i
+
+# target to preprocess a source file
+lesson04/q4_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/q4_2.cpp.i
+.PHONY : lesson04/q4_2.cpp.i
+
+lesson04/q4_2.s: lesson04/q4_2.cpp.s
+
+.PHONY : lesson04/q4_2.s
+
+# target to generate assembly for a file
+lesson04/q4_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/q4_2.cpp.s
+.PHONY : lesson04/q4_2.cpp.s
+
+lesson04/q4_3.o: lesson04/q4_3.cpp.o
+
+.PHONY : lesson04/q4_3.o
+
+# target to build an object file
+lesson04/q4_3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/q4_3.cpp.o
+.PHONY : lesson04/q4_3.cpp.o
+
+lesson04/q4_3.i: lesson04/q4_3.cpp.i
+
+.PHONY : lesson04/q4_3.i
+
+# target to preprocess a source file
+lesson04/q4_3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/q4_3.cpp.i
+.PHONY : lesson04/q4_3.cpp.i
+
+lesson04/q4_3.s: lesson04/q4_3.cpp.s
+
+.PHONY : lesson04/q4_3.s
+
+# target to generate assembly for a file
+lesson04/q4_3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/q4_3.cpp.s
+.PHONY : lesson04/q4_3.cpp.s
+
+lesson04/q4_4.o: lesson04/q4_4.cpp.o
+
+.PHONY : lesson04/q4_4.o
+
+# target to build an object file
+lesson04/q4_4.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/q4_4.cpp.o
+.PHONY : lesson04/q4_4.cpp.o
+
+lesson04/q4_4.i: lesson04/q4_4.cpp.i
+
+.PHONY : lesson04/q4_4.i
+
+# target to preprocess a source file
+lesson04/q4_4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/q4_4.cpp.i
+.PHONY : lesson04/q4_4.cpp.i
+
+lesson04/q4_4.s: lesson04/q4_4.cpp.s
+
+.PHONY : lesson04/q4_4.s
+
+# target to generate assembly for a file
+lesson04/q4_4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson04/q4_4.cpp.s
+.PHONY : lesson04/q4_4.cpp.s
+
+lesson05/Complex1.o: lesson05/Complex1.cpp.o
+
+.PHONY : lesson05/Complex1.o
+
+# target to build an object file
+lesson05/Complex1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson05/Complex1.cpp.o
+.PHONY : lesson05/Complex1.cpp.o
+
+lesson05/Complex1.i: lesson05/Complex1.cpp.i
+
+.PHONY : lesson05/Complex1.i
+
+# target to preprocess a source file
+lesson05/Complex1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson05/Complex1.cpp.i
+.PHONY : lesson05/Complex1.cpp.i
+
+lesson05/Complex1.s: lesson05/Complex1.cpp.s
+
+.PHONY : lesson05/Complex1.s
+
+# target to generate assembly for a file
+lesson05/Complex1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson05/Complex1.cpp.s
+.PHONY : lesson05/Complex1.cpp.s
+
+lesson05/q5_1.o: lesson05/q5_1.cpp.o
+
+.PHONY : lesson05/q5_1.o
+
+# target to build an object file
+lesson05/q5_1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson05/q5_1.cpp.o
+.PHONY : lesson05/q5_1.cpp.o
+
+lesson05/q5_1.i: lesson05/q5_1.cpp.i
+
+.PHONY : lesson05/q5_1.i
+
+# target to preprocess a source file
+lesson05/q5_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson05/q5_1.cpp.i
+.PHONY : lesson05/q5_1.cpp.i
+
+lesson05/q5_1.s: lesson05/q5_1.cpp.s
+
+.PHONY : lesson05/q5_1.s
+
+# target to generate assembly for a file
+lesson05/q5_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson05/q5_1.cpp.s
+.PHONY : lesson05/q5_1.cpp.s
+
+lesson06/q6_1.o: lesson06/q6_1.cpp.o
+
+.PHONY : lesson06/q6_1.o
+
+# target to build an object file
+lesson06/q6_1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson06/q6_1.cpp.o
+.PHONY : lesson06/q6_1.cpp.o
+
+lesson06/q6_1.i: lesson06/q6_1.cpp.i
+
+.PHONY : lesson06/q6_1.i
+
+# target to preprocess a source file
+lesson06/q6_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson06/q6_1.cpp.i
+.PHONY : lesson06/q6_1.cpp.i
+
+lesson06/q6_1.s: lesson06/q6_1.cpp.s
+
+.PHONY : lesson06/q6_1.s
+
+# target to generate assembly for a file
+lesson06/q6_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson06/q6_1.cpp.s
+.PHONY : lesson06/q6_1.cpp.s
+
+lesson06/q6_2.o: lesson06/q6_2.cpp.o
+
+.PHONY : lesson06/q6_2.o
+
+# target to build an object file
+lesson06/q6_2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson06/q6_2.cpp.o
+.PHONY : lesson06/q6_2.cpp.o
+
+lesson06/q6_2.i: lesson06/q6_2.cpp.i
+
+.PHONY : lesson06/q6_2.i
+
+# target to preprocess a source file
+lesson06/q6_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson06/q6_2.cpp.i
+.PHONY : lesson06/q6_2.cpp.i
+
+lesson06/q6_2.s: lesson06/q6_2.cpp.s
+
+.PHONY : lesson06/q6_2.s
+
+# target to generate assembly for a file
+lesson06/q6_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/C_C__.dir/build.make CMakeFiles/C_C__.dir/lesson06/q6_2.cpp.s
+.PHONY : lesson06/q6_2.cpp.s
 
 main.o: main.cpp.o
 
@@ -836,9 +1241,54 @@ help:
 	@echo "... lesson04/Date.o"
 	@echo "... lesson04/Date.i"
 	@echo "... lesson04/Date.s"
+	@echo "... lesson04/Date1.o"
+	@echo "... lesson04/Date1.i"
+	@echo "... lesson04/Date1.s"
+	@echo "... lesson04/DoubleArray.o"
+	@echo "... lesson04/DoubleArray.i"
+	@echo "... lesson04/DoubleArray.s"
+	@echo "... lesson04/Line.o"
+	@echo "... lesson04/Line.i"
+	@echo "... lesson04/Line.s"
+	@echo "... lesson04/Line2.o"
+	@echo "... lesson04/Line2.i"
+	@echo "... lesson04/Line2.s"
+	@echo "... lesson04/Log.o"
+	@echo "... lesson04/Log.i"
+	@echo "... lesson04/Log.s"
+	@echo "... lesson04/Point.o"
+	@echo "... lesson04/Point.i"
+	@echo "... lesson04/Point.s"
+	@echo "... lesson04/Point2.o"
+	@echo "... lesson04/Point2.i"
+	@echo "... lesson04/Point2.s"
 	@echo "... lesson04/ex4_3.o"
 	@echo "... lesson04/ex4_3.i"
 	@echo "... lesson04/ex4_3.s"
+	@echo "... lesson04/q4_1.o"
+	@echo "... lesson04/q4_1.i"
+	@echo "... lesson04/q4_1.s"
+	@echo "... lesson04/q4_2.o"
+	@echo "... lesson04/q4_2.i"
+	@echo "... lesson04/q4_2.s"
+	@echo "... lesson04/q4_3.o"
+	@echo "... lesson04/q4_3.i"
+	@echo "... lesson04/q4_3.s"
+	@echo "... lesson04/q4_4.o"
+	@echo "... lesson04/q4_4.i"
+	@echo "... lesson04/q4_4.s"
+	@echo "... lesson05/Complex1.o"
+	@echo "... lesson05/Complex1.i"
+	@echo "... lesson05/Complex1.s"
+	@echo "... lesson05/q5_1.o"
+	@echo "... lesson05/q5_1.i"
+	@echo "... lesson05/q5_1.s"
+	@echo "... lesson06/q6_1.o"
+	@echo "... lesson06/q6_1.i"
+	@echo "... lesson06/q6_1.s"
+	@echo "... lesson06/q6_2.o"
+	@echo "... lesson06/q6_2.i"
+	@echo "... lesson06/q6_2.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

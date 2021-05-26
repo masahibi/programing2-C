@@ -376,6 +376,201 @@ CMakeFiles/C_C__.dir/lesson04/ex4_3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_C__.dir/lesson04/ex4_3.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/ex4_3.cpp -o CMakeFiles/C_C__.dir/lesson04/ex4_3.cpp.s
 
+CMakeFiles/C_C__.dir/lesson04/Line.cpp.o: CMakeFiles/C_C__.dir/flags.make
+CMakeFiles/C_C__.dir/lesson04/Line.cpp.o: ../lesson04/Line.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masaki/大学用/プログラミング２（C:C++）/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/C_C__.dir/lesson04/Line.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_C__.dir/lesson04/Line.cpp.o -c /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Line.cpp
+
+CMakeFiles/C_C__.dir/lesson04/Line.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_C__.dir/lesson04/Line.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Line.cpp > CMakeFiles/C_C__.dir/lesson04/Line.cpp.i
+
+CMakeFiles/C_C__.dir/lesson04/Line.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_C__.dir/lesson04/Line.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Line.cpp -o CMakeFiles/C_C__.dir/lesson04/Line.cpp.s
+
+CMakeFiles/C_C__.dir/lesson04/Date1.cpp.o: CMakeFiles/C_C__.dir/flags.make
+CMakeFiles/C_C__.dir/lesson04/Date1.cpp.o: ../lesson04/Date1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masaki/大学用/プログラミング２（C:C++）/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/C_C__.dir/lesson04/Date1.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_C__.dir/lesson04/Date1.cpp.o -c /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Date1.cpp
+
+CMakeFiles/C_C__.dir/lesson04/Date1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_C__.dir/lesson04/Date1.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Date1.cpp > CMakeFiles/C_C__.dir/lesson04/Date1.cpp.i
+
+CMakeFiles/C_C__.dir/lesson04/Date1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_C__.dir/lesson04/Date1.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Date1.cpp -o CMakeFiles/C_C__.dir/lesson04/Date1.cpp.s
+
+CMakeFiles/C_C__.dir/lesson04/Log.cpp.o: CMakeFiles/C_C__.dir/flags.make
+CMakeFiles/C_C__.dir/lesson04/Log.cpp.o: ../lesson04/Log.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masaki/大学用/プログラミング２（C:C++）/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/C_C__.dir/lesson04/Log.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_C__.dir/lesson04/Log.cpp.o -c /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Log.cpp
+
+CMakeFiles/C_C__.dir/lesson04/Log.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_C__.dir/lesson04/Log.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Log.cpp > CMakeFiles/C_C__.dir/lesson04/Log.cpp.i
+
+CMakeFiles/C_C__.dir/lesson04/Log.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_C__.dir/lesson04/Log.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Log.cpp -o CMakeFiles/C_C__.dir/lesson04/Log.cpp.s
+
+CMakeFiles/C_C__.dir/lesson04/q4_4.cpp.o: CMakeFiles/C_C__.dir/flags.make
+CMakeFiles/C_C__.dir/lesson04/q4_4.cpp.o: ../lesson04/q4_4.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masaki/大学用/プログラミング２（C:C++）/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/C_C__.dir/lesson04/q4_4.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_C__.dir/lesson04/q4_4.cpp.o -c /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/q4_4.cpp
+
+CMakeFiles/C_C__.dir/lesson04/q4_4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_C__.dir/lesson04/q4_4.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/q4_4.cpp > CMakeFiles/C_C__.dir/lesson04/q4_4.cpp.i
+
+CMakeFiles/C_C__.dir/lesson04/q4_4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_C__.dir/lesson04/q4_4.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/q4_4.cpp -o CMakeFiles/C_C__.dir/lesson04/q4_4.cpp.s
+
+CMakeFiles/C_C__.dir/lesson04/DoubleArray.cpp.o: CMakeFiles/C_C__.dir/flags.make
+CMakeFiles/C_C__.dir/lesson04/DoubleArray.cpp.o: ../lesson04/DoubleArray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masaki/大学用/プログラミング２（C:C++）/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/C_C__.dir/lesson04/DoubleArray.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_C__.dir/lesson04/DoubleArray.cpp.o -c /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/DoubleArray.cpp
+
+CMakeFiles/C_C__.dir/lesson04/DoubleArray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_C__.dir/lesson04/DoubleArray.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/DoubleArray.cpp > CMakeFiles/C_C__.dir/lesson04/DoubleArray.cpp.i
+
+CMakeFiles/C_C__.dir/lesson04/DoubleArray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_C__.dir/lesson04/DoubleArray.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/DoubleArray.cpp -o CMakeFiles/C_C__.dir/lesson04/DoubleArray.cpp.s
+
+CMakeFiles/C_C__.dir/lesson04/q4_1.cpp.o: CMakeFiles/C_C__.dir/flags.make
+CMakeFiles/C_C__.dir/lesson04/q4_1.cpp.o: ../lesson04/q4_1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masaki/大学用/プログラミング２（C:C++）/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/C_C__.dir/lesson04/q4_1.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_C__.dir/lesson04/q4_1.cpp.o -c /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/q4_1.cpp
+
+CMakeFiles/C_C__.dir/lesson04/q4_1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_C__.dir/lesson04/q4_1.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/q4_1.cpp > CMakeFiles/C_C__.dir/lesson04/q4_1.cpp.i
+
+CMakeFiles/C_C__.dir/lesson04/q4_1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_C__.dir/lesson04/q4_1.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/q4_1.cpp -o CMakeFiles/C_C__.dir/lesson04/q4_1.cpp.s
+
+CMakeFiles/C_C__.dir/lesson04/Point.cpp.o: CMakeFiles/C_C__.dir/flags.make
+CMakeFiles/C_C__.dir/lesson04/Point.cpp.o: ../lesson04/Point.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masaki/大学用/プログラミング２（C:C++）/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/C_C__.dir/lesson04/Point.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_C__.dir/lesson04/Point.cpp.o -c /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Point.cpp
+
+CMakeFiles/C_C__.dir/lesson04/Point.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_C__.dir/lesson04/Point.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Point.cpp > CMakeFiles/C_C__.dir/lesson04/Point.cpp.i
+
+CMakeFiles/C_C__.dir/lesson04/Point.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_C__.dir/lesson04/Point.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Point.cpp -o CMakeFiles/C_C__.dir/lesson04/Point.cpp.s
+
+CMakeFiles/C_C__.dir/lesson04/q4_2.cpp.o: CMakeFiles/C_C__.dir/flags.make
+CMakeFiles/C_C__.dir/lesson04/q4_2.cpp.o: ../lesson04/q4_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masaki/大学用/プログラミング２（C:C++）/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/C_C__.dir/lesson04/q4_2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_C__.dir/lesson04/q4_2.cpp.o -c /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/q4_2.cpp
+
+CMakeFiles/C_C__.dir/lesson04/q4_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_C__.dir/lesson04/q4_2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/q4_2.cpp > CMakeFiles/C_C__.dir/lesson04/q4_2.cpp.i
+
+CMakeFiles/C_C__.dir/lesson04/q4_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_C__.dir/lesson04/q4_2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/q4_2.cpp -o CMakeFiles/C_C__.dir/lesson04/q4_2.cpp.s
+
+CMakeFiles/C_C__.dir/lesson04/Point2.cpp.o: CMakeFiles/C_C__.dir/flags.make
+CMakeFiles/C_C__.dir/lesson04/Point2.cpp.o: ../lesson04/Point2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masaki/大学用/プログラミング２（C:C++）/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/C_C__.dir/lesson04/Point2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_C__.dir/lesson04/Point2.cpp.o -c /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Point2.cpp
+
+CMakeFiles/C_C__.dir/lesson04/Point2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_C__.dir/lesson04/Point2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Point2.cpp > CMakeFiles/C_C__.dir/lesson04/Point2.cpp.i
+
+CMakeFiles/C_C__.dir/lesson04/Point2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_C__.dir/lesson04/Point2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Point2.cpp -o CMakeFiles/C_C__.dir/lesson04/Point2.cpp.s
+
+CMakeFiles/C_C__.dir/lesson04/Line2.cpp.o: CMakeFiles/C_C__.dir/flags.make
+CMakeFiles/C_C__.dir/lesson04/Line2.cpp.o: ../lesson04/Line2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masaki/大学用/プログラミング２（C:C++）/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/C_C__.dir/lesson04/Line2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_C__.dir/lesson04/Line2.cpp.o -c /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Line2.cpp
+
+CMakeFiles/C_C__.dir/lesson04/Line2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_C__.dir/lesson04/Line2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Line2.cpp > CMakeFiles/C_C__.dir/lesson04/Line2.cpp.i
+
+CMakeFiles/C_C__.dir/lesson04/Line2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_C__.dir/lesson04/Line2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/Line2.cpp -o CMakeFiles/C_C__.dir/lesson04/Line2.cpp.s
+
+CMakeFiles/C_C__.dir/lesson04/q4_3.cpp.o: CMakeFiles/C_C__.dir/flags.make
+CMakeFiles/C_C__.dir/lesson04/q4_3.cpp.o: ../lesson04/q4_3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masaki/大学用/プログラミング２（C:C++）/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/C_C__.dir/lesson04/q4_3.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_C__.dir/lesson04/q4_3.cpp.o -c /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/q4_3.cpp
+
+CMakeFiles/C_C__.dir/lesson04/q4_3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_C__.dir/lesson04/q4_3.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/q4_3.cpp > CMakeFiles/C_C__.dir/lesson04/q4_3.cpp.i
+
+CMakeFiles/C_C__.dir/lesson04/q4_3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_C__.dir/lesson04/q4_3.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masaki/大学用/プログラミング２（C:C++）/lesson04/q4_3.cpp -o CMakeFiles/C_C__.dir/lesson04/q4_3.cpp.s
+
+CMakeFiles/C_C__.dir/lesson05/q5_1.cpp.o: CMakeFiles/C_C__.dir/flags.make
+CMakeFiles/C_C__.dir/lesson05/q5_1.cpp.o: ../lesson05/q5_1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masaki/大学用/プログラミング２（C:C++）/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/C_C__.dir/lesson05/q5_1.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_C__.dir/lesson05/q5_1.cpp.o -c /Users/masaki/大学用/プログラミング２（C:C++）/lesson05/q5_1.cpp
+
+CMakeFiles/C_C__.dir/lesson05/q5_1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_C__.dir/lesson05/q5_1.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masaki/大学用/プログラミング２（C:C++）/lesson05/q5_1.cpp > CMakeFiles/C_C__.dir/lesson05/q5_1.cpp.i
+
+CMakeFiles/C_C__.dir/lesson05/q5_1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_C__.dir/lesson05/q5_1.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masaki/大学用/プログラミング２（C:C++）/lesson05/q5_1.cpp -o CMakeFiles/C_C__.dir/lesson05/q5_1.cpp.s
+
+CMakeFiles/C_C__.dir/lesson05/Complex1.cpp.o: CMakeFiles/C_C__.dir/flags.make
+CMakeFiles/C_C__.dir/lesson05/Complex1.cpp.o: ../lesson05/Complex1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masaki/大学用/プログラミング２（C:C++）/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/C_C__.dir/lesson05/Complex1.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_C__.dir/lesson05/Complex1.cpp.o -c /Users/masaki/大学用/プログラミング２（C:C++）/lesson05/Complex1.cpp
+
+CMakeFiles/C_C__.dir/lesson05/Complex1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_C__.dir/lesson05/Complex1.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masaki/大学用/プログラミング２（C:C++）/lesson05/Complex1.cpp > CMakeFiles/C_C__.dir/lesson05/Complex1.cpp.i
+
+CMakeFiles/C_C__.dir/lesson05/Complex1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_C__.dir/lesson05/Complex1.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masaki/大学用/プログラミング２（C:C++）/lesson05/Complex1.cpp -o CMakeFiles/C_C__.dir/lesson05/Complex1.cpp.s
+
+CMakeFiles/C_C__.dir/lesson06/q6_1.cpp.o: CMakeFiles/C_C__.dir/flags.make
+CMakeFiles/C_C__.dir/lesson06/q6_1.cpp.o: ../lesson06/q6_1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masaki/大学用/プログラミング２（C:C++）/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/C_C__.dir/lesson06/q6_1.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_C__.dir/lesson06/q6_1.cpp.o -c /Users/masaki/大学用/プログラミング２（C:C++）/lesson06/q6_1.cpp
+
+CMakeFiles/C_C__.dir/lesson06/q6_1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_C__.dir/lesson06/q6_1.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masaki/大学用/プログラミング２（C:C++）/lesson06/q6_1.cpp > CMakeFiles/C_C__.dir/lesson06/q6_1.cpp.i
+
+CMakeFiles/C_C__.dir/lesson06/q6_1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_C__.dir/lesson06/q6_1.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masaki/大学用/プログラミング２（C:C++）/lesson06/q6_1.cpp -o CMakeFiles/C_C__.dir/lesson06/q6_1.cpp.s
+
+CMakeFiles/C_C__.dir/lesson06/q6_2.cpp.o: CMakeFiles/C_C__.dir/flags.make
+CMakeFiles/C_C__.dir/lesson06/q6_2.cpp.o: ../lesson06/q6_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/masaki/大学用/プログラミング２（C:C++）/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/C_C__.dir/lesson06/q6_2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_C__.dir/lesson06/q6_2.cpp.o -c /Users/masaki/大学用/プログラミング２（C:C++）/lesson06/q6_2.cpp
+
+CMakeFiles/C_C__.dir/lesson06/q6_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_C__.dir/lesson06/q6_2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/masaki/大学用/プログラミング２（C:C++）/lesson06/q6_2.cpp > CMakeFiles/C_C__.dir/lesson06/q6_2.cpp.i
+
+CMakeFiles/C_C__.dir/lesson06/q6_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_C__.dir/lesson06/q6_2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/masaki/大学用/プログラミング２（C:C++）/lesson06/q6_2.cpp -o CMakeFiles/C_C__.dir/lesson06/q6_2.cpp.s
+
 # Object files for target C_C__
 C_C___OBJECTS = \
 "CMakeFiles/C_C__.dir/main.cpp.o" \
@@ -400,7 +595,22 @@ C_C___OBJECTS = \
 "CMakeFiles/C_C__.dir/lesson03/Counter3.cpp.o" \
 "CMakeFiles/C_C__.dir/lesson04/Date.cpp.o" \
 "CMakeFiles/C_C__.dir/lesson04/Account.cpp.o" \
-"CMakeFiles/C_C__.dir/lesson04/ex4_3.cpp.o"
+"CMakeFiles/C_C__.dir/lesson04/ex4_3.cpp.o" \
+"CMakeFiles/C_C__.dir/lesson04/Line.cpp.o" \
+"CMakeFiles/C_C__.dir/lesson04/Date1.cpp.o" \
+"CMakeFiles/C_C__.dir/lesson04/Log.cpp.o" \
+"CMakeFiles/C_C__.dir/lesson04/q4_4.cpp.o" \
+"CMakeFiles/C_C__.dir/lesson04/DoubleArray.cpp.o" \
+"CMakeFiles/C_C__.dir/lesson04/q4_1.cpp.o" \
+"CMakeFiles/C_C__.dir/lesson04/Point.cpp.o" \
+"CMakeFiles/C_C__.dir/lesson04/q4_2.cpp.o" \
+"CMakeFiles/C_C__.dir/lesson04/Point2.cpp.o" \
+"CMakeFiles/C_C__.dir/lesson04/Line2.cpp.o" \
+"CMakeFiles/C_C__.dir/lesson04/q4_3.cpp.o" \
+"CMakeFiles/C_C__.dir/lesson05/q5_1.cpp.o" \
+"CMakeFiles/C_C__.dir/lesson05/Complex1.cpp.o" \
+"CMakeFiles/C_C__.dir/lesson06/q6_1.cpp.o" \
+"CMakeFiles/C_C__.dir/lesson06/q6_2.cpp.o"
 
 # External object files for target C_C__
 C_C___EXTERNAL_OBJECTS =
@@ -428,9 +638,24 @@ C_C__: CMakeFiles/C_C__.dir/lesson03/Counter3.cpp.o
 C_C__: CMakeFiles/C_C__.dir/lesson04/Date.cpp.o
 C_C__: CMakeFiles/C_C__.dir/lesson04/Account.cpp.o
 C_C__: CMakeFiles/C_C__.dir/lesson04/ex4_3.cpp.o
+C_C__: CMakeFiles/C_C__.dir/lesson04/Line.cpp.o
+C_C__: CMakeFiles/C_C__.dir/lesson04/Date1.cpp.o
+C_C__: CMakeFiles/C_C__.dir/lesson04/Log.cpp.o
+C_C__: CMakeFiles/C_C__.dir/lesson04/q4_4.cpp.o
+C_C__: CMakeFiles/C_C__.dir/lesson04/DoubleArray.cpp.o
+C_C__: CMakeFiles/C_C__.dir/lesson04/q4_1.cpp.o
+C_C__: CMakeFiles/C_C__.dir/lesson04/Point.cpp.o
+C_C__: CMakeFiles/C_C__.dir/lesson04/q4_2.cpp.o
+C_C__: CMakeFiles/C_C__.dir/lesson04/Point2.cpp.o
+C_C__: CMakeFiles/C_C__.dir/lesson04/Line2.cpp.o
+C_C__: CMakeFiles/C_C__.dir/lesson04/q4_3.cpp.o
+C_C__: CMakeFiles/C_C__.dir/lesson05/q5_1.cpp.o
+C_C__: CMakeFiles/C_C__.dir/lesson05/Complex1.cpp.o
+C_C__: CMakeFiles/C_C__.dir/lesson06/q6_1.cpp.o
+C_C__: CMakeFiles/C_C__.dir/lesson06/q6_2.cpp.o
 C_C__: CMakeFiles/C_C__.dir/build.make
 C_C__: CMakeFiles/C_C__.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/masaki/大学用/プログラミング２（C:C++）/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Linking CXX executable C_C__"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/masaki/大学用/プログラミング２（C:C++）/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Linking CXX executable C_C__"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C_C__.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
